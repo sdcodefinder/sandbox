@@ -2,4 +2,6 @@ web-clawler-test
 
 printf("I am now doing a web crawl test");
 
+tajikasAPI.start();
+
 
